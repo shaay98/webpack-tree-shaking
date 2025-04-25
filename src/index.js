@@ -1,5 +1,5 @@
 "use strict";
-
+import "../src/styles/styles.css";
 import { addTwo, people, objects} from "./functions.js";
 
 console.log(addTwo(13, 7));
